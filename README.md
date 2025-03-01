@@ -97,6 +97,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 This tool is for educational purposes only. Use at your own risk. The developers are not responsible for any account actions resulting from the use of this bot.
 
-## Repository
 
-https://github.com/airdropinsiders/Walme-Auto-Bot.git
