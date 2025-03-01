@@ -25,7 +25,7 @@ An automated bot for completing Walme airdrop tasks with comprehensive proxy sup
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/Walme-Auto-Bot.git
+git clone https://github.com/TesnetD/Walme-Auto-Bot.git
 cd Walme-Auto-Bot
 ```
 
